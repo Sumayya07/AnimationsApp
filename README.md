@@ -2,9 +2,6 @@
 
 This iOS UIKit Animation Project showcases various animations using the UIKit framework. The project integrates several types of view controllers including `NextViewController`, `NumberViewController`, `ConfirmViewController`, `PlayViewController`, and `CandyViewController`, each featuring distinct views and animations. From simple scale transitions to complex off-screen animations, this project covers a wide spectrum of UIKit capabilities, enriching the user interface elements and enhancing user engagement. The project is designed for extensibility, facilitating easy addition or modification of features.
 
-<br/>
-<video src="https://github.com/Sumayya07/TotalityCorpAssignment/assets/95580926/afc752ce-5140-4949-b77f-4e31618eedb3" width="30%">
-
 ## Features
 
 - **NextViewController**: This controller uses `UIView.animate()` to transition multiple views from off-screen to their original positions upon view appearance.
@@ -25,10 +22,5 @@ Clone the repository and open the `.xcodeproj` file in Xcode. Run the project on
 
 Navigate through the app by interacting with the buttons on each screen. Enjoy the various animations as you move from one screen to another.
 
-## Contributing
-
-Feel free to fork the project and submit a pull request with your changes!
-
-## License
-
-This project is licensed under the MIT License.
+<br/>
+<video src="https://github.com/Sumayya07/TotalityCorpAssignment/assets/95580926/afc752ce-5140-4949-b77f-4e31618eedb3" width="30%">
